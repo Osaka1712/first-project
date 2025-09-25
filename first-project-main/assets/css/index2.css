@@ -1,0 +1,38 @@
+.cockiesh{
+    background-color:#f2f6fa;
+    border-radius:5px ;
+    padding:10px 10px;
+    color:#2e363e ;
+    width: fit-content;
+    
+}
+.heroes{
+    height: 90vh;
+    background: url(../img/1.png) no-repeat center;
+    color: white;
+    
+}
+.text-mini{
+    font-weight: 300;
+}
+.btn-cat{
+    background-color:#fed84c;
+    border-radius: 8px ;
+    padding:30px 30px;
+    color:#2e363e ;
+    width: fit-content;
+    text-decoration: none;
+}
+.marg-5{
+    margin-top: 5%;
+}
+.container-big{
+    width: 70%;
+    margin: 0 auto;
+}
+body{
+    background-color: #010612;
+}
+.col-6{
+    color: #ffffff;
+}
