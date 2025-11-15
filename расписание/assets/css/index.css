@@ -1,0 +1,28 @@
+body{
+    background-color: #E6FBFB;
+}
+.logo{
+    width: 200px;
+}
+.btn-1{
+    color: black;
+    text-decoration: none;
+    
+}
+.name-text{
+     background-color: #3BBAFF;
+    border-radius: 100px;
+    width: fit-content;
+    padding: 5px 30px;
+}
+.lessons{
+    text-align: center;
+    font-size: 48px;
+    margin-top: 30px;
+}
+.margin-cus{
+    margin-top: 100px;
+}
+.name-text-2{
+    background-color:#74CFFF;
+}
