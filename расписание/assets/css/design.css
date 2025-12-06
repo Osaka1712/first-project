@@ -1,0 +1,45 @@
+body{
+    background-color: #ECF2FF;
+}
+h1{
+    text-align: center;
+}
+.line{
+    background-color: #A3C0EB;
+}
+.name-txt{
+    padding: 5px;
+    font-size:60px;
+    text-align: center;
+}
+.name-txt-2{
+    background-color: #3F6FF1;
+    padding: 10px 20px;
+    font-size: 50px;
+    border-radius: 100px;
+    margin: 0 auto;
+    width: fit-content;
+    box-shadow:0px 5px 10px 5px rgb(120, 120, 120) ;
+}
+.img-fon{
+    position: absolute;
+    bottom: 5px;
+
+}
+.img-fon-2{
+    position: absolute;
+    bottom: 5px;
+    left: 30%;
+}
+.img-fon-3{
+ position: absolute;
+    bottom: 5px;
+    left: 65%;
+}
+.col{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.blue{
+    background-color: #3F6FF1;
+}

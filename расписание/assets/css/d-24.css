@@ -1,0 +1,30 @@
+body{
+    padding: 50px;
+    background-color: #B1C1FF;
+}
+.fon-1{
+background-color: #BCCAFF;
+height: 1000px;
+border-radius: 15px;
+padding: 50px;
+}
+.fon-2{
+    background-color: #D5DEFF;
+    height: 900px;
+    border-radius: 15px;
+    padding: 50px;
+}
+.fon-3{
+    background-color: #ECF0FF;
+    height: 890px;
+    border-radius: 15px;
+}
+.center-heading{
+    width: fit-content;
+    margin-top:20px ;
+    margin:0 auto ;
+}
+.imgfon{
+    width: 100%;
+    
+}
