@@ -1,0 +1,55 @@
+body{
+    padding: 50px;
+    background-color: #B1C1FF;
+}
+.fon-1{
+background-color: #BCCAFF;
+height: 1000px;
+border-radius: 15px;
+padding: 50px;
+}
+.fon-2{
+    background-color: #D5DEFF;
+    height: 900px;
+    border-radius: 15px;
+    padding: 50px;
+}
+.fon-3{
+    background-color: #ECF0FF;
+    height: 890px;
+    border-radius: 15px;
+}
+.center-heading{
+    width: fit-content;
+    margin-top:40px ;
+    margin:0 auto ;
+    text-align: center;
+
+}
+.imgfon{
+    width: 100%;
+    
+}
+.electric-korobka-2{
+    display: none;
+    
+}
+@media (max-device-width:480px) {
+    .electric-korobka{
+        display: none;
+        
+    }
+        .electric-korobka-2{
+            display: block;
+        }
+    body{
+        padding: 20px;
+    }
+
+}
+.fon-1{
+padding: 20px;
+}
+.fon-2{
+    padding: 20px;
+}
